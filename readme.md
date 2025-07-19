@@ -1,22 +1,22 @@
-Command-line utility addon to create, list and delete weapon sets.
+Slash command style addon that can be used to create, list and delete weapon sets.
 
 Usage: `/weaponrack <command> <name>`
 
 Available commands
 
-Save
+### Save
 Creates set with a given name
 Usage: `/weaponrack save SetName`
 
-Delete
+### Delete
 Deletes set with a given name
 Usage: `/weaponrack delete SetName`
 
-List
+### List
 Lists all sets
 Usage: `/weaponrack list`
 
-Equipset
+### Equipset
 Equips set with a given name
 Usage: `/equipset SetName`
 
