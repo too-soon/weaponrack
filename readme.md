@@ -9,7 +9,7 @@ Creates set with a given name
 Usage: `/weaponrack save SetName`
 
 Delete
-Delete a given set
+Deletes set with a given name
 Usage: `/weaponrack delete SetName`
 
 List
