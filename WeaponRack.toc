@@ -1,6 +1,4 @@
 ## Interface: 11400
 ## Title: WeaponRack
 ## Notes: Create weapon sets easily.
-## Version: 1.0.0
-## Author: Code Copilot
 WeaponRack.lua

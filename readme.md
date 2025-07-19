@@ -16,4 +16,8 @@ List
 Lists all sets
 Usage: `/weaponrack list`
 
+Equipset
+Equips set with a given name
+Usage: `/equipset SetName`
+
 Once a set is created, it can be included in a macro by using `/equipset SetName`
