@@ -17,5 +17,3 @@ Lists all sets
 Usage: `/weaponrack list`
 
 Once a set is created, it can be included in a macro by using `/equipset SetName`
-
-Motivation: Macros with 2 weapons of the same name won't work correctly. This small tool 
